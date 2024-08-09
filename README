@@ -1,7 +1,16 @@
-Comandos necessários para rodar o projeto: 
+# Projeto de testes com JEST e JAVASCRIPT
 
-Para instalar os pacotes utilize o comando: 
-- npm install 
+Esse é um projeto para realizar validações na API
+[SWAPI](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 
-Após instalar, execute o comando abaixo para executar os testes: 
-- npm test 
+Para rodar o projeto primeiro execute o comando: 
+
+```bash
+  npm install
+```
+
+Ao terminar a instalação, rode os testes: 
+
+```bash
+  npm test
+```
