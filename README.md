@@ -1,3 +1,4 @@
+
 # Projeto de testes com JEST e JAVASCRIPT
 
 Esse é um projeto para realizar validações na API
@@ -14,3 +15,4 @@ Ao terminar a instalação, rode os testes:
 ```bash
   npm test
 ```
+
