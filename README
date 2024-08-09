@@ -1,0 +1,7 @@
+Comandos necessários para rodar o projeto: 
+
+Para instalar os pacotes utilize o comando: 
+- npm install 
+
+Após instalar, execute o comando abaixo para executar os testes: 
+- npm test 
